@@ -1,8 +1,3 @@
-# Notes to Self
-        # Need to add if then statement to addmenu to check for datetime datatype
-        # Same thing for removeMenu
-        # Remove isn't working properly
-        # In the addHoliday() need to add if then to ensure there are no duplicates
 import datetime
 import json
 from bs4 import BeautifulSoup
